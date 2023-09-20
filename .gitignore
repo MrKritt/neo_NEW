@@ -1,0 +1,7 @@
+/auth_data.txt
+/log/
+/test_data
+.idea
+.pyc
+/__pycache__/
+__pycache__/
